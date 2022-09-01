@@ -4,4 +4,4 @@ NPM     : 2106703821
 
 Kelas   : F
 
-Hobi    : Ngoding
+Hobi    : Turu
